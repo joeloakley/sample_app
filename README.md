@@ -1,0 +1,3 @@
+== README
+
+Rails Sample App.
